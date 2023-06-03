@@ -1,0 +1,15 @@
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.csproj.AssemblyReference.cache
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.GeneratedMSBuildEditorConfig.editorconfig
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.AssemblyInfoInputs.cache
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.AssemblyInfo.cs
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.csproj.CoreCompileInputs.cache
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\bin\Debug\net6.0\cwiczenie_2.exe
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\bin\Debug\net6.0\cwiczenie_2.deps.json
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\bin\Debug\net6.0\cwiczenie_2.runtimeconfig.json
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\bin\Debug\net6.0\cwiczenie_2.dll
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\bin\Debug\net6.0\cwiczenie_2.pdb
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.dll
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\refint\cwiczenie_2.dll
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.pdb
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\cwiczenie_2.genruntimeconfig.cache
+V:\WSB\ćwiczenia pp\cwiczenia_2_3-06-2023\cwiczenie_2\obj\Debug\net6.0\ref\cwiczenie_2.dll
